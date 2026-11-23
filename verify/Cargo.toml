@@ -1,0 +1,11 @@
+[package]
+name = "verify"
+version = "0.1.0"
+edition = "2021"
+[workspace]
+[dependencies]
+wry = { path = ".." }
+tao = "0.37"
+objc2 = "0.6"
+objc2-foundation = "0.3"
+raw-window-handle = "0.6"
