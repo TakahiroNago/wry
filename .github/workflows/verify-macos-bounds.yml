@@ -1,7 +1,7 @@
 name: verify macos bounds
 on:
   push:
-    branches: [verify/macos-bounds]
+    branches: [verify/macos-bounds-flipped]
 permissions:
   contents: read
 jobs:
